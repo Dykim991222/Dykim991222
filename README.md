@@ -1,14 +1,6 @@
 <div align="center">
-
-  <!-- 헤더 이미지 -->
-  <img 
-    src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0f1f,100:243B55&height=230&section=header&text=AI%20%26%20Machine%20Learning%20Researcher&fontSize=40&fontColor=ffffff&animation=fadeIn"
-  />
-
-  <!-- 문구 -->
-  <p align="center">
-    <sub>A hundred bad days made a hundred better stories</sub>
-  </p>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:141E30,100:243B55&height=220&section=header&text=Doyeon%20Kim&fontSize=60&fontColor=ffffff&animation=fadeIn" />
+  <h3 style="color:#c9d1d9; margin-top:-20px;">A hundred bad days made a hundred better stories</h3>
 </div>
 
 
