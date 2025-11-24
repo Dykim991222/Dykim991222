@@ -4,12 +4,12 @@
   />
 
   <p align="center">
-    <sub style="color:#c9d1d9;">
-      Learning deeply. Experimenting boldly. <br/>
-      Exploring the intersection of deep learning, vision, and intelligent systems.
+    <sub>
+      A hundred bad days made a hundred better stories
     </sub>
   </p>
 </div>
+
 
 
 
