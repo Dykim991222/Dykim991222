@@ -1,6 +1,6 @@
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:141E30,100:243B55&height=220&section=header&text=Doyeon%20Kim&fontSize=60&fontColor=ffffff&animation=fadeIn" />
-  <h3 style="color:#c9d1d9; margin-top:-20px;">A hundred bad days made a hundred better stories</h3>
+  <h3 style="color:#c9d1d9; margin-top:-20px;"></h3>
 </div>
 
 
