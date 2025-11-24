@@ -1,10 +1,12 @@
-<!-- 헤더 -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0f1f,100:243B55&height=220&section=header&&fontSize=65&fontColor=ffffff&animation=fadeIn" />
-  <h3 style="color:#c9d1d9; margin-top:-20px; font-weight:400;">
-    Improving step by step, every single day.
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0f1f,100:243B55&height=230&section=header&text=AI%20%26%20Machine%20Learning%20Researcher&fontSize=45&fontAlign=50&fontColor=ffffff&animation=fadeIn" />
+
+  <h3 style="color:#c9d1d9; margin-top:-10px; font-weight:300; font-size:18px;">
+    Learning deeply. Experimenting boldly. <br/>
+    Exploring the intersection of LLM, ML, AI Agent.
   </h3>
 </div>
+
 
 <br/>
 
