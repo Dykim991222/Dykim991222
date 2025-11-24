@@ -1,6 +1,8 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:141E30,100:243B55&height=220&section=header&text=Doyeon%20Kim&fontSize=60&fontColor=ffffff&animation=fadeIn" />
-  <h3 style="color:#c9d1d9; margin-top:-20px;">AI Engineer · Computer Vision · ML Research</h3>
+  <img src="https://capsule-render.vercel.app/api?type=soft&color=gradient&height=170&text=Doyeon's%20GitHub&fontSize=50&fontColor=ffffff&animation=twinkling" />
+  <p style="color:#8892b0; font-size:16px; margin-top:-10px;">
+    Exploring Deep Learning, Vision, and AI Agents 🚀
+  </p>
 </div>
 
 <div style="text-align: left;"> 
