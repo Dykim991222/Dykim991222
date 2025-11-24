@@ -3,7 +3,7 @@
 
   <h3 style="color:#c9d1d9; margin-top:-10px; font-weight:300; font-size:18px;">
     Learning deeply. Experimenting boldly. <br/>
-    Exploring the intersection of LLM, ML, AI Agent.
+    Exploring the intersection of deep learning, vision, and intelligent systems.
   </h3>
 </div>
 
