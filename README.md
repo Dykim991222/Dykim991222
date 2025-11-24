@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=1a1a1a&height=120&section=header&text=Doyeon%20Kim%20(GitHub)&fontColor=ffffff&fontSize=50" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=230&text=Doyeon%20Kim&fontAlign=50&fontSize=60&fontColor=ffffff" />
 </div>
 
 <div style="text-align: left;"> 
