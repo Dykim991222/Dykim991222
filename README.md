@@ -15,6 +15,7 @@
           <br/><img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=PyTorch&logoColor=white">
           <img src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=Slack&logoColor=white">
           <img src="https://img.shields.io/badge/Tensorflow-FF6F00?style=for-the-badge&logo=Tensorflow&logoColor=white">
+        [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=alfine1222)](https://solved.ac/alfine1222/)
           </div>
     </div>
     <div style="text-align: left;">
