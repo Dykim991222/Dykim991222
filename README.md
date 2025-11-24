@@ -1,6 +1,6 @@
 <!-- 헤더 -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0f1f,100:243B55&height=220&section=header&text=Doyeon%20Kim&fontSize=65&fontColor=ffffff&animation=fadeIn" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0f1f,100:243B55&height=220&section=header&text=Improving step by step, every single day.&fontSize=65&fontColor=ffffff&animation=fadeIn" />
   <h3 style="color:#c9d1d9; margin-top:-20px; font-weight:400;">
     Improving step by step, every single day.
   </h3>
