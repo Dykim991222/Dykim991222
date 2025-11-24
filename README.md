@@ -1,5 +1,6 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rounded&color=gradient&height=240&text=Doyeon's%20GitHub&animation=fadeIn&fontColor=ffffff&fontSize=70" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:141E30,100:243B55&height=220&section=header&text=Doyeon%20Kim&fontSize=60&fontColor=ffffff&animation=fadeIn" />
+  <h3 style="color:#c9d1d9; margin-top:-20px;">AI Engineer · Computer Vision · ML Research</h3>
 </div>
 
 <div style="text-align: left;"> 
