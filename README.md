@@ -1,12 +1,13 @@
 <div align="center">
+
+  <!-- 헤더 이미지 -->
   <img 
-    src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0f1f,100:243B55&height=230&section=header&text=AI%20%26%20Machine%20Learning%20Researcher&fontSize=45&fontColor=ffffff&animation=fadeIn"
+    src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0f1f,100:243B55&height=230&section=header&text=AI%20%26%20Machine%20Learning%20Researcher&fontSize=40&fontColor=ffffff&animation=fadeIn"
   />
 
+  <!-- 문구 -->
   <p align="center">
-    <sub>
-      A hundred bad days made a hundred better stories
-    </sub>
+    <sub>A hundred bad days made a hundred better stories</sub>
   </p>
 </div>
 
