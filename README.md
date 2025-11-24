@@ -1,8 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=soft&color=gradient&height=170&text=Doyeon's%20GitHub&fontSize=50&fontColor=ffffff&animation=twinkling" />
-  <p style="color:#8892b0; font-size:16px; margin-top:-10px;">
-    Exploring Deep Learning, Vision, and AI Agents 🚀
-  </p>
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=1a1a1a&height=120&section=header&text=Doyeon%20Kim%20(GitHub)&fontColor=ffffff&fontSize=50" />
 </div>
 
 <div style="text-align: left;"> 
