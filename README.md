@@ -1,10 +1,14 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:141E30,100:243B55&height=230&section=header&text=Computer%20Vision%20%26%20AI%20Engineer&fontSize=45&fontColor=ffffff&animation=fadeIn" />
+  <img 
+    src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0f1f,100:243B55&height=230&section=header&text=AI%20%26%20Machine%20Learning%20Researcher&fontSize=45&fontColor=ffffff&animation=fadeIn"
+  />
 
-  <h3 style="color:#bfc7cf; margin-top:-12px; font-weight:300; font-size:18px;">
-    Always learning. Always building. <br/>
-    Turning ideas into working AI systems.
-  </h3>
+  <p align="center">
+    <sub style="color:#c9d1d9;">
+      Learning deeply. Experimenting boldly. <br/>
+      Exploring the intersection of deep learning, vision, and intelligent systems.
+    </sub>
+  </p>
 </div>
 
 
